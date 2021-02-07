@@ -22,4 +22,10 @@ You can also participate by submitting your candidacy as a game or operating sys
 * This email adress is for business enquiries only. Any abuse or spam will be punsihed !
 
 
+Github : https://windokk.github.io/NervON/
+
+Tipeee : https://fr.tipeee.com/nervon
+
+You can access our Trello to see our progression in realtime : https://trello.com/b/q78pIu4V/nervon
+
 © Nervon - Nerv Dynamics 2021
