@@ -20,5 +20,6 @@ The point is that we have very few financial resources and this project unfortun
 You can also participate by submitting your candidacy as a game or operating system developer to our email address: nervon.official.project@gmail.com
 
 * This email adress is for business enquiries only. Any abuse or spam will be punsihed !
-In addition to this, you need to know more about it.
+
+
 © Nervon - Nerv Dynamics 2021
